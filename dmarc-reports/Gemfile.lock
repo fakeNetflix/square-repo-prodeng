@@ -15,7 +15,9 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.23)
-    nokogiri (1.5.10)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.8)
+      mini_portile2 (~> 2.4.0)
     polyglot (0.3.3)
     rack (1.5.2)
     rack-protection (1.5.0)
@@ -46,7 +48,7 @@ PLATFORMS
 DEPENDENCIES
   dmarc-reports!
   mail
-  nokogiri (~> 1.5.6)
+  nokogiri (~> 1.10.8)
   rspec
   sequel
   sinatra
