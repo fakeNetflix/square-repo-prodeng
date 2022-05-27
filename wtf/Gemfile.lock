@@ -4,7 +4,7 @@ GEM
     ascii_charts (0.9.1)
     json (1.8.0)
     mime-types (1.23)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.0)
       rack
     rangeclient (0.0.7)
