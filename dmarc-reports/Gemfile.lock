@@ -17,7 +17,7 @@ GEM
     mime-types (1.23)
     nokogiri (1.5.10)
     polyglot (0.3.3)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.0)
       rack
     rspec (2.14.0)
